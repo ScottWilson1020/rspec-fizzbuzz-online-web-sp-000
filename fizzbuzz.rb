@@ -16,4 +16,4 @@ def fizzbuzz(int)
   end 
 end
 
-def fizzbuzz(15)
+fizzbuzz(15)
